@@ -1,6 +1,4 @@
-package co.devgabrielc.bank;
-
-import com.sun.jdi.Value;
+package co.devgabrielc.bank.entities;
 
 public class Account {
     // definindo uma constante

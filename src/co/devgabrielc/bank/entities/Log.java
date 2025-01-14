@@ -1,4 +1,4 @@
-package co.devgabrielc.bank;
+package co.devgabrielc.bank.entities;
 
 public class Log {
 

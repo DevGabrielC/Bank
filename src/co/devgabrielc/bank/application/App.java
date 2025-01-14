@@ -1,4 +1,7 @@
-package co.devgabrielc.bank;
+package co.devgabrielc.bank.application;
+
+import co.devgabrielc.bank.entities.Account;
+import co.devgabrielc.bank.entities.Bank;
 
 import java.util.List;
 import java.util.Locale;

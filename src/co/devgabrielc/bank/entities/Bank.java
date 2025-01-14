@@ -1,4 +1,4 @@
-package co.devgabrielc.bank;
+package co.devgabrielc.bank.entities;
 
 import java.util.ArrayList;
 import java.util.List;
